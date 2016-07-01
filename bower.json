@@ -1,7 +1,7 @@
 {
-  "name": "angular-chat-emoji-popup",
-  "version": "v1.2.0",
-  "homepage": "https://github.com/ricardo-teixeira/angular-emoji-popup",
+  "name": "ingaia-emoji",
+  "version": "v1.0.0",
+  "homepage": "https://github.com/ingaia/angular-emoji-popup",
   "description": "Angular based Emoji Popup along with filters for encoding/decoding emojis",
   "main": ["src/js/emoji.js", "src/css/emoji.css"],
   "keywords": [
@@ -9,6 +9,7 @@
     "emoji"
   ],
   "authors": [
+    "ingaia",
     "madhur"
   ],
   "license": "MIT"
