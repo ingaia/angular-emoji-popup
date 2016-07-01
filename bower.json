@@ -1,5 +1,5 @@
 {
-  "name": "ingaia-emoji",
+  "name": "ingaia-emoji-popup",
   "version": "v1.0.0",
   "homepage": "https://github.com/ingaia/angular-emoji-popup",
   "description": "Angular based Emoji Popup along with filters for encoding/decoding emojis",
